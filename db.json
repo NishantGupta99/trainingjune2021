@@ -19,6 +19,16 @@
     {
       "age": "3423222",
       "id": 6
+    },
+    {
+      "firstName": "tutu",
+      "age": "55555",
+      "gender": "Female",
+      "skills": [
+        "Javascript",
+        "Java"
+      ],
+      "id": 7
     }
   ]
 }
